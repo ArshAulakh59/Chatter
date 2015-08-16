@@ -9,5 +9,5 @@
 import Foundation
 
 //MARK: Parse
-var ParseApplicationID = "7bFTPiUmpLDoOqoIocvlihoLaRByWXOVrkLkvt1D"
-var ParseClientKey = "RB8NLcO1sNdbQFdSmJ7a7IkWS6gH854AatJnHg3S"
+var ParseApplicationID = ""
+var ParseClientKey = ""

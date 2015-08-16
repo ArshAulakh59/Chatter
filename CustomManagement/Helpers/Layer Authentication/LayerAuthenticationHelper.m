@@ -9,7 +9,7 @@
 #import "LayerAuthenticationHelper.h"
 #import <Parse/Parse.h>
 
-static NSString *const kLayerAppID = @"layer:///apps/staging/bf5a3e1e-43e6-11e5-8d32-a29ec6015c1d";
+static NSString *const kLayerAppID = @"";
 
 @implementation LayerAuthenticationHelper
 
